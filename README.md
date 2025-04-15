@@ -18,7 +18,7 @@ Looking for other builds? Go to releases [page](https://github.com/KennyProgramm
 So why a **Game Engine**?
 Because I want to make my own technology, even if it will small at first, which I will eventually develop. I also always wanted to create a **game** using my own engine. You can get more information [**about me**](https://github.com/KennyProgrammer) in general and what the purposes was to create a my own Game Engine if already exist open source engines like **Unity** and **Unreal**.
 
-**Force** is currently under development and may not have all features that should Game Engine have, **but im working from home, and working pretty fast :D**
+**Force** is currently under development and may not have all features that should Game Engine have, **but im working from home, and working pretty fast. 
 
 If you interesed you can check Force global [Roadmap](.github/Force-RoadMap.md) to see completed and not yet completed features.
 
