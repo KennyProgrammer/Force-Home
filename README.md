@@ -10,16 +10,17 @@
 Looking for other builds? Go to releases [page](https://github.com/KennyProgrammer/Force/releases). 
 
 ## What is this? 
-Force is a game engine for making any 2D and 3D (in future) graphics applications, games. It is written in C/C++ with C# as scripting language. Force support OpenGL, DirectX and maybe in future Vulkan rendering API's. Its supports Windows for now as main platform, other desktop platforms (Mac, Linux) and mobile platforms (IOS, Android) will be also support in a far future.
+[**Force**](https://github.com/KennyProgrammer/Force) is a game engine for **making any 2D and 3D (in future) graphics applications, games**. It is written in C/C++ with C# as scripting language. Force support [OpenGL](https://www.khronos.org/opengl/), [DirectX](https://en.wikipedia.org/wiki/DirectX) and maybe in future
+[Vulkan](https://www.khronos.org/vulkan/) rendering API's. Its supports Windows for now as main platform, other desktop platforms (Mac, Linux) and mobile platforms (IOS, Android) will be also support in a far future. 
 
-Force was developing by one person Danil Dukhovenko from January 2020 and still by present day. Force still on very early stage, because working on it by myself. So it needs get a lot more features for now to left this early stage. In future where engine steps some stability point, i will attach other developers, and create open source-community driven technology.
+**Force** was developing by one person [Danil Dukhovenko](https://github.com/KennyProgrammer/Force/commits?author=KennyProgrammer) from [January 2020](https://danil-dukhovenko.gitbook.io/force/other/insider) and still by present day. Force still on very early stage, because working on it by myself. So it needs get a lot more features for now to left this early stage. In future where engine steps some **stability point**, i will attach other developers, and create open source-community driven technology. 
 
-So why a Game Engine?
-Because I want to create my own technology, even if it is small at first, which I will eventually develop. I also always wanted to create a game using my own engine. You can get more information about me in general and what the purposes was to create a my own Game Engine if already exist open source engines like Unity and Unreal.
+So why a **Game Engine**?
+Because I want to make my own technology, even if it will small at first, which I will eventually develop. I also always wanted to create a **game** using my own engine. You can get more information [**about me**](https://github.com/KennyProgrammer) in general and what the purposes was to create a my own Game Engine if already exist open source engines like **Unity** and **Unreal**.
 
-Force is currently under development and may not have all features that should Game Engine have, but im working from home, and working pretty fast :D
+**Force** is currently under development and may not have all features that should Game Engine have, **but im working from home, and working pretty fast :D**
 
-If you interesed you can check Force global Roadmap to see completed and not yet completed features.
+If you interesed you can check Force global [Roadmap](.github/Force-RoadMap.md) to see completed and not yet completed features.
 
 Check the About page for information about me and how i started working on it.
 
