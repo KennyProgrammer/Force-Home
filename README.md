@@ -22,7 +22,7 @@ Because I want to make my own technology, even if it will small at first, which 
 
 If you interesed you can check Force global [Roadmap](.github/Force-RoadMap.md) to see completed and not yet completed features.
 
-Check the About page for information about me and how i started working on it.
+Check the [About](ABOUT.md) page for information about me and how i started working on it.
 
 
 
